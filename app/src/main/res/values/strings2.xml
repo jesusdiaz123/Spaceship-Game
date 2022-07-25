@@ -1,0 +1,33 @@
+<resources>
+    <string name="msj_error_numerico">Debe capturar un valor numerico</string>
+
+    <string name="app_titulo">Indice de masa corporal</string>
+    <string name="lbl_peso">Peso(kg):</string>
+    <string name="lbl_estatura">Estatura(m):</string>
+    <string name="btn_calcular_IMC">Calcular IMC</string>
+    <string name="btn_acerca_de">Acerca de...</string>
+
+
+    <string name="txt_delgadez_muy_severa">Delgadez muy severa</string>
+    <string name="txt_delgadez_severa">Delgadez severa</string>
+    <string name="txt_delgadez">Delgadez</string>
+    <string name="txt_saludable">Peso saludable</string>
+    <string name="txt_sobrepeso">Sobrepeso</string>
+    <string name="txt_obesidad">Obesidad</string>
+    <string name="txt_obesidad_controlada">Obesidad controlada</string>
+    <string name="txt_obesidad_severa">Obesidad severa</string>
+    <string name="txt_obesidad_muy_severa">Obesidad muy severa</string>
+    <string name="institucion1">TECNOLOGICO NACIONAL DE MEXICO</string>
+    <string name="institucion2">CAMPUS TECNOLOGICO DE LA LAGUNA</string>
+    <string name="carrera">Ingenieria en Sistemas Computacionales</string>
+    <string name="materia">Desarrollo en Android</string>
+    <string name="semestre">Semestre: Ago-Dic/2021</string>
+    <string name="grupo">Grupo: A10-11 hrs</string>
+    <string name="leyenda_alumno">Alumno:</string>
+    <string name="alumno" translatable="false">Jesús Alberto Díaz de León (17130778)</string>
+    <string name="pie">\@Derechos Reservados Torreon, Coahuila.</string>
+    <string name="txt_imc">IMC</string>
+    <string name="txt_aceptar">Aceptar</string>
+    <string name="txt_imc2">IMC:</string>
+
+</resources>
